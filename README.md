@@ -1,4 +1,4 @@
- # ![Assaf Golani header](https://media.giphy.com/media/HKIufA0UEoeQQ5du2E/giphy.gif)
+<div style="display: flex; (https://media.giphy.com/media/HKIufA0UEoeQQ5du2E/giphy.gif): center;"></div>
 <div align='center'>
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
