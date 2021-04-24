@@ -9,5 +9,5 @@
 
 ## 📈 GitHub Stats
 <a href="https://github.com/AssafGolani/AssafGolani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellavis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assafgolani&theme=radical" />
 </a>
