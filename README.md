@@ -1,3 +1,4 @@
+<div align='center'>
 # ![Assaf Golani header](https://media.giphy.com/media/HKIufA0UEoeQQ5du2E/giphy.gif) 
 <div align='center'>
 
