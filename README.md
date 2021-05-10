@@ -17,6 +17,7 @@
 
 ![](https://img.shields.io/badge/FreamWork-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/FreamWork-Mongoose-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
 <a href="https://github.com/AssafGolani/AssafGolani">
