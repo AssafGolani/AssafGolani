@@ -4,7 +4,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p> My name is Assaf, a CS student at HIT! </p>
+<p> My name is Assaf, a FrontEnd Developer! </p>
   
 <a href="https://www.linkedin.com/in/assaf-golani-2a723a13a/"><img height="20" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true">  LinkedIn - Assaf Golani</a>
 
