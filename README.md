@@ -1,5 +1,6 @@
-
-# ![Assaf Golani header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Uwd3JlNnR4MnoxcWU0cmtydnFtem1wNXh5eGdkeGw1Ymx4NXo1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFAZH9B9HC001rb7zS/giphy.gif) 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Uwd3JlNnR4MnoxcWU0cmtydnFtem1wNXh5eGdkeGw1Ymx4NXo1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFAZH9B9HC001rb7zS/giphy.gif" alt="animated" />
+</div>
 <div align='center'>
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
