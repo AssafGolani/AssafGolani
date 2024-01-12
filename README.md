@@ -1,5 +1,5 @@
 
-# ![Assaf Golani header](https://media.giphy.com/media/HKIufA0UEoeQQ5du2E/giphy.gif) 
+# ![Assaf Golani header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Uwd3JlNnR4MnoxcWU0cmtydnFtem1wNXh5eGdkeGw1Ymx4NXo1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fFAZH9B9HC001rb7zS/giphy.gif) 
 <div align='center'>
 
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -10,19 +10,19 @@
 
 ## 🔧 Technologies & Tools 
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/FrameWork-Angular-informational?style=flat&logo=AngularJS&logoColor=white&color=F46530)<br>
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+# Current Stack:
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,sass)](https://skillicons.dev)
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=angular,react,babel,vue,redux,jest,azure)](https://skillicons.dev)
 
-![](https://img.shields.io/badge/FrameWork-Vue.js-informational?style=flat&logo=vuejs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FrameWork-Node.js-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FrameWork-Express.js-informational?style=flat&logo=expressjs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/FrameWork-Mongoose-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DataBase-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+# Prev Stack:
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,spring,c,cpp)](https://skillicons.dev)
+
+
 
 ## 📈 GitHub Stats
 <a href="https://github.com/AssafGolani/AssafGolani">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assafgolani&theme=radical" />
 </a>
+<br/>
+
